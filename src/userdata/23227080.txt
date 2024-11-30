@@ -1,0 +1,15 @@
+Account Number : 23227080
+Full Name      : rukaiya akter trisha
+Date of Birth  : 03/09/2002
+Mobile Number  : 01955675211
+Email          : trisha2345@gmail.com
+NID            : 5648225147
+User Name      : trisha2345@gmail.com
+Password       : A232e@232
+Account type   : Student Account
+Initial Deposit: 5000.00
+Account Pin    : 0675
+Nominee Name   : reduan ahmad
+Noninee NID    : 1356485752
+Address        : Dhaka , 3450 , Bangladesh
+----------------------------------------
